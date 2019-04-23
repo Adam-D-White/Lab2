@@ -1,0 +1,7 @@
+C:\Users\Adam White\source\repos\roomSize\roomSize\bin\Debug\roomSize.exe.config
+C:\Users\Adam White\source\repos\roomSize\roomSize\bin\Debug\roomSize.exe
+C:\Users\Adam White\source\repos\roomSize\roomSize\bin\Debug\roomSize.pdb
+C:\Users\Adam White\source\repos\roomSize\roomSize\obj\Debug\roomSize.csprojAssemblyReference.cache
+C:\Users\Adam White\source\repos\roomSize\roomSize\obj\Debug\roomSize.csproj.CoreCompileInputs.cache
+C:\Users\Adam White\source\repos\roomSize\roomSize\obj\Debug\roomSize.exe
+C:\Users\Adam White\source\repos\roomSize\roomSize\obj\Debug\roomSize.pdb
